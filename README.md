@@ -1,5 +1,7 @@
 # FastTools
-![Alt text](home.png?raw=true "Home")
-![Alt text](weather.png?raw=true "Weather")
-![Alt text](notes.png?raw=true "Notes")
-![Alt text](iusms.png?raw=true "IUSMS")
+<p align="center">
+  <img src="home.png?raw=true" alt="Home" width="200"/>
+  <img src="weather.png?raw=true" alt="Weather" width="200"/>
+  <img src="notes.png?raw=true" alt="Notes" width="200"/>
+  <img src="iusms.png?raw=true" alt="IUSMS" width="200"/>
+</p>
